@@ -16,7 +16,7 @@ A collection of annotation tools for LiDAR Point Cloud. There are 3D Object Dete
 | [LATTE][3]|Accelerating LiDAR Point Cloud Annotation via Sensor Fusion, One-Click Annotation, and Tracking  | 301 | (ITSC). IEEE, 2019 | Apache-2.0 License| - | - | - |
 | [PointAtMe][4]|An annotation tool to annotate 3D data in 3D  | 19 | IEEE Intelligent Vehicles Symposium (IV), 2019 |GPL-3.0 License| - | - | - |
 | [SUSTechPOINTS][2]|3D Point Cloud Annotation Platform for Autonomous Driving | 243 | IEEE Intelligent Vehicles Symposium (IV), 2020 |GPL-3.0 License| - | - | - | - |
-| [cloud_annotation_tool][6]|L-CAS 3D Point Cloud Annotation Tool | 227 | Autonomous Robots,2020 |GPL-3.0 License|- | - | - |
+| [cloud_annotation_tool][6]|Main for person detection not adas. L-CAS 3D Point Cloud Annotation Tool | 227 | Autonomous Robots,2020 |GPL-3.0 License|- | - | - |
 | [FLAVA] |  No codeT_T  Find, Localize, Adjust and Verify to Annotate LiDAR-Based Point Clouds  | - | UIST 2020|- | - | - |
 | [Sane][5]|Smart annotation and evaluation tool for point cloud data| 36 | IEEE Access,2020 |Apache-2.0 License| - | - | - |
 | [labelCloud][7]|A lightweight tool for labeling 3D bounding boxes in point clouds | 175 | CAD2021 |GPL-3.0 License|- | - | - |
