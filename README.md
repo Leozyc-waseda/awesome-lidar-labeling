@@ -21,7 +21,7 @@ A collection of annotation tools for LiDAR Point Cloud. There are 3D Object Dete
 | [Sane][5]|Smart annotation and evaluation tool for point cloud data| 36 | IEEE Access,2020 |Apache-2.0 License| - | - | - |
 | [labelCloud][7]|A lightweight tool for labeling 3D bounding boxes in point clouds | 175 | CAD2021 |GPL-3.0 License|- | - | - |
 
-
+## So far, [SUSTechPOINTS][2] is best.
 ## Picture of each annotation tools
 - [3D-BAT][1]
 ![Image text](https://github.com/Leozyc-waseda/awesome-lidar-labeling/blob/main/picture/3d-bat.png)
