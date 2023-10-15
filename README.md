@@ -1,10 +1,12 @@
 # Awesome LiDAR labeling
 - Awesome LiDAR Annotation tools
 - Awesome LiDAR Point Cloud tools
+  
+A collection of annotation tools for LiDAR Point Cloud. There are 3D Object Detection directions, and Semantic Segmentation.
 
 ## 📄 My Related Papers
 - **PALF: Pre-Annotation and Camera-LiDAR Late Fusion for the Easy Annotation of Point Clouds** -[ReadMore](https://ieeexplore.ieee.org/document/10216156)
-A collection of annotation tools for LiDAR Point Cloud. There are 3D Object Detection directions, and Semantic Segmentation.
+
 
 ## 3D Object Detection
 - At present, the hot topic in LiDAR Point Cloud, the Bounding Box annotation tool of 3D Object Detection is summarized.
@@ -58,7 +60,9 @@ A collection of annotation tools for LiDAR Point Cloud. There are 3D Object Dete
 [6]: <https://github.com/yzrobot/cloud_annotation_tool>
 [7]: <https://github.com/ch-sa/labelCloud>
 
-## 3D Semantic Segmentation (coming soon)
+## 3D Semantic Segmentation (coming soon) 📝 TODO: Update this section when new data is available.
+
+
 
 
 
