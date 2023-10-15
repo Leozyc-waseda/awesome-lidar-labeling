@@ -12,14 +12,14 @@ A collection of annotation tools for LiDAR Point Cloud. There are 3D Object Dete
 
 | Name | Information | Github Stars | Conference | License | Review | Good Point | Bad Point |
 | ------------ | ------ | ------ | ------ |  ------ |   ------ |   ------ |   ------ |   
-| [3D-BAT][1]|3D Bounding Box Annotation Tool Point cloud and Image Labeling | 328 | IEEE Intelligent Vehicles Symposium (IV), 2019|educational, research and non-profit purposes | - | - | - |
-| [LATTE][3]|Accelerating LiDAR Point Cloud Annotation via Sensor Fusion, One-Click Annotation, and Tracking  | 301 | (ITSC). IEEE, 2019 | Apache-2.0 License| - | - | - |
-| [PointAtMe][4]|An annotation tool to annotate 3D data in 3D  | 19 | IEEE Intelligent Vehicles Symposium (IV), 2019 |GPL-3.0 License| - | - | - |
-| [SUSTechPOINTS][2]|3D Point Cloud Annotation Platform for Autonomous Driving | 243 | IEEE Intelligent Vehicles Symposium (IV), 2020 |GPL-3.0 License| - | - | - | - |
-| [cloud_annotation_tool][6]|Main for person detection not adas. L-CAS 3D Point Cloud Annotation Tool | 227 | Autonomous Robots,2020 |GPL-3.0 License|- | - | - |
+| [3D-BAT][1]|3D Bounding Box Annotation Tool Point cloud and Image Labeling | ![Stars](https://img.shields.io/github/stars/walzimmer/3d-bat?style=social) | IEEE Intelligent Vehicles Symposium (IV), 2019|educational, research and non-profit purposes | - | - | - |
+| [LATTE][3]|Accelerating LiDAR Point Cloud Annotation via Sensor Fusion, One-Click Annotation, and Tracking  | ![Stars](https://img.shields.io/github/stars/bernwang/latte?style=social) | (ITSC). IEEE, 2019 | Apache-2.0 License| - | - | - |
+| [PointAtMe][4]|An annotation tool to annotate 3D data in 3D  | ![Stars](https://img.shields.io/github/stars/florianwirth/PointAtMe?style=social) | IEEE Intelligent Vehicles Symposium (IV), 2019 |GPL-3.0 License| - | - | - |
+| [SUSTechPOINTS][2]|3D Point Cloud Annotation Platform for Autonomous Driving | ![Stars](https://img.shields.io/github/stars/naurril/SUSTechPOINTS?style=social) | IEEE Intelligent Vehicles Symposium (IV), 2020 |GPL-3.0 License| - | - | - | - |
+| [cloud_annotation_tool][6]|Main for person detection not adas. L-CAS 3D Point Cloud Annotation Tool | ![Stars](https://img.shields.io/github/stars/yzrobot/cloud_annotation_tool?style=social) | Autonomous Robots,2020 |GPL-3.0 License|- | - | - |
 | [FLAVA] |  No codeT_T  Find, Localize, Adjust and Verify to Annotate LiDAR-Based Point Clouds  | - | UIST 2020|- | - | - |
-| [Sane][5]|Smart annotation and evaluation tool for point cloud data| 36 | IEEE Access,2020 |Apache-2.0 License| - | - | - |
-| [labelCloud][7]|A lightweight tool for labeling 3D bounding boxes in point clouds | 175 | CAD2021 |GPL-3.0 License|- | - | - |
+| [Sane][5]|Smart annotation and evaluation tool for point cloud data| ![Stars](https://img.shields.io/github/stars/hasanari/sane?style=social) | IEEE Access,2020 |Apache-2.0 License| - | - | - |
+| [labelCloud][7]|A lightweight tool for labeling 3D bounding boxes in point clouds | ![Stars](https://img.shields.io/github/stars/ch-sa/labelCloud?style=social) | CAD2021 |GPL-3.0 License|- | - | - |
 
 
 ## Picture of each annotation tools
@@ -57,3 +57,10 @@ A collection of annotation tools for LiDAR Point Cloud. There are 3D Object Dete
 [7]: <https://github.com/ch-sa/labelCloud>
 
 ## 3D Semantic Segmentation (coming soon)
+
+## 📄 我的相关论文 | My Related Papers
+- **PALF: Pre-Annotation and Camera-LiDAR Late Fusion for the Easy Annotation of Point Clouds** -[ReadMore](https://ieeexplore.ieee.org/document/10216156)
+
+
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeozyc-waseda%2Fawesome-lidar-labeling&label=VISITORS&countColor=%23263759)
