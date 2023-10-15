@@ -4,6 +4,8 @@
   
 A collection of annotation tools for LiDAR Point Cloud. There are 3D Object Detection directions, and Semantic Segmentation.
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeozyc-waseda%2Fawesome-lidar-labeling&label=VISITORS&countColor=%23263759)
+
 ## 📄 My Related Papers
 - **PALF: Pre-Annotation and Camera-LiDAR Late Fusion for the Easy Annotation of Point Clouds** -[ReadMore](https://ieeexplore.ieee.org/document/10216156)
 
@@ -67,4 +69,3 @@ A collection of annotation tools for LiDAR Point Cloud. There are 3D Object Dete
 
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLeozyc-waseda%2Fawesome-lidar-labeling&label=VISITORS&countColor=%23263759)
