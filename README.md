@@ -2,6 +2,8 @@
 - Awesome LiDAR Annotation tools
 - Awesome LiDAR Point Cloud tools
 
+## 📄 My Related Papers
+- **PALF: Pre-Annotation and Camera-LiDAR Late Fusion for the Easy Annotation of Point Clouds** -[ReadMore](https://ieeexplore.ieee.org/document/10216156)
 A collection of annotation tools for LiDAR Point Cloud. There are 3D Object Detection directions, and Semantic Segmentation.
 
 ## 3D Object Detection
@@ -58,8 +60,6 @@ A collection of annotation tools for LiDAR Point Cloud. There are 3D Object Dete
 
 ## 3D Semantic Segmentation (coming soon)
 
-## 📄 我的相关论文 | My Related Papers
-- **PALF: Pre-Annotation and Camera-LiDAR Late Fusion for the Easy Annotation of Point Clouds** -[ReadMore](https://ieeexplore.ieee.org/document/10216156)
 
 
 
